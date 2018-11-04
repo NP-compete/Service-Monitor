@@ -1,0 +1,7 @@
+{
+  "uuid": "myextension@myname.example.com",
+  "name": "My Cool Extension",
+  "description": "Make windows burst into flame",
+  "url": "http://example.com/~myname/myextension",
+  "shell-version": [ "3.2.2" ]
+}
